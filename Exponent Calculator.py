@@ -10,3 +10,5 @@ def exponent(base, exp):
     print(f"{base} raises to the power of {exp} is: {result}")
 
 #print result
+exponent(2,5)
+exponent(5,4)
